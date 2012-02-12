@@ -1,0 +1,14 @@
+local_settings.py
+*.pyc
+remote_settings.py
+local_environment.py
+.sass-cache
+build
+.idea
+*.iml
+build.properties
+static/*
+generated_output/
+.project
+.pydevproject
+debug_settings.py
