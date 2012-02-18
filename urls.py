@@ -15,3 +15,5 @@ urlpatterns = patterns('',
     # Uncomment the next line to enable the admin:
      url(r'^admin/', include(admin.site.urls)),
 )
+# this is a python comment which is // in c++
+
